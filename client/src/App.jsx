@@ -19,7 +19,7 @@ function App() {
 
           <Route element={<DefaultLayout />}>
             
-            <Route path="/example" element={<ProfileExample/>}/>
+            <Route path="/matheus" element={<ProfileExample/>}/>
             <Route path="/breno" element={<BrenoProfile/>}/>
 
           </Route>
